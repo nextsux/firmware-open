@@ -36,8 +36,8 @@
 	branch = master
 [submodule "ec"]
 	path = ec
-	url = https://github.com/system76/ec.git
-	branch = master
+	url = https://github.com/nextsux/ec.git
+	branch = fix/peci-espi-recovery
 [submodule "tools/apobtool"]
 	path = tools/apobtool
 	url = https://github.com/system76/apobtool.git
